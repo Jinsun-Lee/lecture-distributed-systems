@@ -1,3 +1,8 @@
+# 설명  
+Distributed Systems (COS-418) 강의 내용을 정리한 레포지토리입니다.  
+
+<br><br>  
+
 ### Part 1: Map/Reduce input and output
 
 ```
